@@ -122,6 +122,19 @@
   });
 
   /* ---------------------------------------------------------
+     Esconde a barra do topo quando o rodapé (política/direitos) está visível
+  --------------------------------------------------------- */
+  var siteFooter = document.getElementById('siteFooter');
+  if (siteFooter) {
+    var footerObserver = new IntersectionObserver(function (entries) {
+      entries.forEach(function (entry) {
+        topbar.classList.toggle('is-hidden', entry.isIntersecting);
+      });
+    }, { root: snap, threshold: 0.6 });
+    footerObserver.observe(siteFooter);
+  }
+
+  /* ---------------------------------------------------------
      Menu mobile
   --------------------------------------------------------- */
   var navToggle = document.getElementById('navToggle');
