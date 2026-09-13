@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://duque-lisboa.netlify.app/sitemap.xml
