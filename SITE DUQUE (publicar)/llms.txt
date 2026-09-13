@@ -1,0 +1,23 @@
+# Restaurante Duque
+
+> Traditional Portuguese restaurant in the historic center of Lisbon, near Largo do Carmo and Chiado. Known for authentic Portuguese and Mediterranean cuisine, generous petiscos, and great value for money.
+
+## About
+Restaurante Duque is located at Rua do Duque, n.os 9 e 33, 1200-158 Lisboa, Portugal — a few steps from Largo do Carmo, in the heart of Lisbon's historic center. It is a cozy, welcoming restaurant serving traditional Portuguese food with Mediterranean influences: petiscos (Portuguese sharing plates), main courses with meat and fish, and traditional desserts. The restaurant is a popular choice for both tourists visiting Lisbon and locals, known for its central location, authentic cuisine, and good value for money.
+
+## Key facts
+- Cuisine: Portuguese, Mediterranean
+- Location: Historic center of Lisbon, near Largo do Carmo and Chiado
+- Price range: Moderate (€€) — good value for money
+- Phone: +351 213 428 579
+- Website: https://www.duquerestaurante.com/
+
+## Menu
+- [Entradas e Petiscos (Starters & Sharing Plates)](https://www.duquerestaurante.com/carta-entradas.html)
+- [Pratos Principais (Main Courses)](https://www.duquerestaurante.com/carta-pratos.html)
+
+## Reservations
+Reservations can be made online at https://www.duquerestaurante.com/#reservas or by phone at +351 213 428 579.
+
+## Other pages
+- [Privacy Policy](https://www.duquerestaurante.com/privacidade.html)
