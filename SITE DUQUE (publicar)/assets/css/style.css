@@ -111,6 +111,11 @@ h1,h2,h3{ font-family:var(--ff-display); margin:0; }
   transform:none;
   transition:none;
 }
+#hero > .hero__content{
+  opacity:1;
+  transform:none;
+  transition:none;
+}
 
 /* ==========================================================================
    Topbar
